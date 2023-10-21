@@ -1,2 +1,3 @@
 # TarjetadePresentacion
-![App Finalizada](Screenshot_20231021_115935.png)
+App realizada por el Primer CodeLab de Kotlin.
+![App Finalizada](AppFinalizada.png)
